@@ -18,7 +18,7 @@ Soy un apasionado de la tecnología con una sólida formación en informática y
 
 ## Experiencia Laboral
 
-### Desarrollador Freelance y Consultor en TI
+### Desarrollador Freelance y Consultor TI
 - Santiago de Chile
 - Enero 2024 - Actualidad
 
@@ -28,24 +28,6 @@ Soy un apasionado de la tecnología con una sólida formación en informática y
 - Desarrollo de bases de datos Oracle, PostgreSQL y MySQL.
 - Uso de servicios Cloud como AWS y Firebase para autenticación y almacenamiento.
 - Levantamiento y gestión de proyectos TI.
-
-### Pentester en CSIRT Ejército de Chile
-- Santiago de Chile
-- Enero 2024 - Actualidad
-
-**Responsabilidades:**
-- Pruebas de penetración a sistemas institucionales, principalmente plataformas web.
-- Elaboración de informes de vulnerabilidades.
-- Participación en entrenamientos (CTF) con la Junta Iberoamericana de Defensa y el EMCO.
-- Planificación y gestión de campañas de Red Team.
-
-### Analista en CSIRT Ejército de Chile
-- Santiago de Chile
-- Enero 2012 - Diciembre 2023
-
-**Responsabilidades:**
-- Gestión de proyectos TI.
-- Análisis y mitigación de vulnerabilidades en sistemas informáticos.
 
 ## Habilidades
 
