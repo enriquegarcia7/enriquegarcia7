@@ -6,16 +6,6 @@ Bienvenido a mi perfil de GitHub. Soy un ingeniero en informática y desarrollad
 
 Soy un apasionado de la tecnología con una sólida formación en informática y telecomunicaciones. Me dedico a ayudar a pequeñas y medianas empresas, así como a profesionales independientes, a transformarse digitalmente y a mejorar su seguridad informática.
 
-## Educación
-
-- **Ingeniería en Informática**
-  - Instituto Profesional DUOC UC, Santiago de Chile
-  - Marzo 2022 - Diciembre 2025
-
-- **Técnico Nivel Superior en Telecomunicaciones**
-  - Escuela de Telecomunicaciones, Santiago de Chile
-  - Enero 2011 - Enero 2012
-
 ## Experiencia Laboral
 
 ### Desarrollador Freelance y Consultor TI
