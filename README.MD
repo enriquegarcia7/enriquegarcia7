@@ -25,7 +25,7 @@ Soy un apasionado de la tecnología con una sólida formación en informática y
 - **Frameworks y Librerías**: Vue 3, Ionic, Django, Django REST Framework
 - **Bases de Datos**: Oracle, PostgreSQL, MySQL
 - **Servicios Cloud**: AWS, Firebase
-- **Herramientas**: Git, Docker, VS Code, Excel
+- **Herramientas**: Git, Docker, VSCode.
 
 ## Contacto
 
