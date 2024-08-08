@@ -21,6 +21,8 @@ Soy un apasionado de la tecnología con una sólida formación en informática y
 
 ### CSIRT
 Analista en CSIRT Enero 2012 – Diciembre 2023
+
+**Responsabilidades:**
 - Gestión de proyectos TI (Participación de dos proyectos informáticos desde el levantamiento de 
 requerimientos, pasando por la licitación, adjudicación, implementación, puesta en marcha y finalmente 
 dando asesoría técnica y capacitación a los usuarios).
