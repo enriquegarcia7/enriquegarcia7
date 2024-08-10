@@ -30,14 +30,15 @@ dando asesoría técnica y capacitación a los usuarios).
 - Administración de red con equipos Fortinet a través de FortiManager y FortiAnalyzer.
 - Capacitación y certificación del personal en el uso de diferentes plataformas tecnológicas.
 - Auditorías de seguridad informática.
-- Análisis de amenazas y vulnerabilidades
+- Análisis de amenazas y vulnerabilidades.
 
 ## Habilidades
 
-- **Lenguajes**: Python, JavaScript, TypeScript, HTML, CSS
-- **Frameworks y Librerías**: Vue 3, Ionic, Django, Django REST Framework
+- **Lenguajes**: Python, JavaScript, TypeScript, C#, HTML, CSS
+- **Frameworks y Librerías**: Vue 3, Ionic, Django, Django REST Framework, .NET
 - **Bases de Datos**: Oracle, PostgreSQL, MySQL
 - **Servicios Cloud**: AWS, Firebase
+- **Deploy**: Vercel
 - **Herramientas**: Git, Docker, VSCode.
 
 ## Contacto
