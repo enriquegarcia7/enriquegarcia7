@@ -19,19 +19,6 @@ Soy un apasionado de la tecnología con una sólida formación en informática y
 - Uso de servicios Cloud como AWS y Firebase para autenticación y almacenamiento.
 - Levantamiento y gestión de proyectos TI.
 
-### CSIRT
-Analista en CSIRT Enero 2012 – Diciembre 2023
-
-**Responsabilidades:**
-- Gestión de proyectos TI (Participación de dos proyectos informáticos desde el levantamiento de 
-requerimientos, pasando por la licitación, adjudicación, implementación, puesta en marcha y finalmente 
-dando asesoría técnica y capacitación a los usuarios).
-- Instalación y configuración de equipos Fortinet.
-- Administración de red con equipos Fortinet a través de FortiManager y FortiAnalyzer.
-- Capacitación y certificación del personal en el uso de diferentes plataformas tecnológicas.
-- Auditorías de seguridad informática.
-- Análisis de amenazas y vulnerabilidades.
-
 ## Habilidades
 
 - **Lenguajes**: Python, JavaScript, TypeScript, C#, HTML, CSS
