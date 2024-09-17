@@ -1,6 +1,6 @@
 # Hola, soy Enrique García 👋
 
-Bienvenido a mi perfil de GitHub. Soy un ingeniero en informática y desarrollador freelance con experiencia en consultoría TI, desarrollo web y móvil, y seguridad informática.
+Bienvenido a mi perfil de GitHub. Soy un ingeniero en informática y desarrollador freelance con experiencia en consultoría TI, desarrollo web, móvil, y seguridad informática.
 
 ## Sobre mí
 
@@ -24,18 +24,19 @@ Soy un apasionado de la tecnología con una sólida formación en informática y
 
 **Responsabilidades:**
 - Asesoría a PYMES y profesionales independientes en transformación digital y seguridad informática.
-- Desarrollo de aplicaciones web y móviles utilizando tecnologías como Vue 3, Ionic, Django y Django REST Framework.
+- Desarrollo de aplicaciones web y móviles utilizando tecnologías como Vue 3, Ionic, Django, Django REST Framework y .NET.
 - Desarrollo de bases de datos Oracle, PostgreSQL y MySQL.
 - Uso de servicios Cloud como AWS y Firebase para autenticación y almacenamiento.
 - Levantamiento y gestión de proyectos TI.
 
 ## Habilidades
 
-- **Lenguajes**: Python, JavaScript, TypeScript, HTML, CSS
-- **Frameworks y Librerías**: Vue 3, Ionic, Django, Django REST Framework
-- **Bases de Datos**: Oracle, PostgreSQL, MySQL
-- **Servicios Cloud**: AWS, Firebase
-- **Herramientas**: Git, Docker, VS Code, Excel
+- **Lenguajes**: Python, JavaScript, TypeScript, C#, HTML, CSS
+- **Frameworks y Librerías**: Vue 3, Ionic, Django, Django REST Framework, .NET
+- **Bases de Datos**: Oracle, PostgreSQL, MySQL, SQL Server.
+- **Servicios Cloud**: AWS, Firebase, GCP.
+- **Deploy**: Vercel.
+- **Herramientas**: Git, Docker, Visual Studio, VS Code, Excel
 
 ## Contacto
 
