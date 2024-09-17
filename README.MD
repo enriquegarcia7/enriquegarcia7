@@ -19,9 +19,9 @@ Soy un apasionado de la tecnología con una sólida formación en informática y
 - Uso de servicios Cloud como AWS y Firebase para autenticación y almacenamiento.
 - Levantamiento y gestión de proyectos TI.
 
-## Habilidades
+## Habilidades Técnicas
 
-- **Lenguajes**: Python, JavaScript, TypeScript, C#, HTML, CSS
+- **Lenguajes**: Python, JavaScript, TypeScript, C#, SQL, PLSQL, HTML, CSS
 - **Frameworks y Librerías**: Vue 3, Ionic, Django, Django REST Framework, .NET
 - **Bases de Datos**: Oracle, PostgreSQL, MySQL, SQL Server.
 - **Servicios Cloud**: AWS, Firebase, GCP.
