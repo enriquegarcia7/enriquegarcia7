@@ -17,7 +17,7 @@ Soy un apasionado de la tecnología con una sólida formación en informática y
 - Desarrollo de aplicaciones web y móviles utilizando tecnologías como Vue 3, Ionic, Django, Django REST Framework y .NET.
 - Desarrollo de bases de datos Oracle, PostgreSQL y MySQL.
 - Implementación de DevOps y DevSecOps.
-- Uso de servicios Cloud como AWS y Firebase para autenticación y almacenamiento.
+- Uso de servicios Cloud como AWS, GCP, Firebase para autenticación y almacenamiento.
 - Levantamiento y gestión de proyectos TI.
 
 ## Habilidades Técnicas
@@ -25,9 +25,10 @@ Soy un apasionado de la tecnología con una sólida formación en informática y
 - **Lenguajes**: Python, JavaScript, TypeScript, C#, SQL, PLSQL, HTML, CSS
 - **Frameworks y Librerías**: Vue 3, Ionic, Django, Django REST Framework, .NET
 - **Bases de Datos**: Oracle, PostgreSQL, MySQL, SQL Server.
-- **Servicios Cloud**: AWS, Firebase, GCP.
+- **Servicios Cloud**: AWS, Firebase, GCP, AZURE.
 - **Deploy**: Vercel.
-- **Herramientas**: Git, Docker, Visual Studio, VS Code, Excel
+- **Herramientas**: Git, Docker, Visual Studio, VS Code.
+- **Herramientas DevOps**: Jenkins, Kubernetes, Docker, Snyk, ZAP, GitHub.
 
 ## Contacto
 
